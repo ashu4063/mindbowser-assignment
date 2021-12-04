@@ -1,0 +1,29 @@
+.error {
+  border-color: red;
+}
+.checkboxes label {
+  margin-right: 10px;
+  margin-left: 5px;
+}
+.suggestionList {
+  margin-top: 5px;
+}
+.suggestionList:hover {
+  cursor: pointer;
+  background-color: rgba(255, 0, 0, 0.178);
+}
+#singleUserCard {
+  margin-top: 200px;
+  box-shadow: 1px 1px rgba(87, 87, 87, 0.678);
+  width: fit-content;
+}
+#noDataCard {
+  width: fit-content;
+  box-shadow: 1px 1px 1px rgba(87, 87, 87, 0.678);
+}
+.listCard {
+  box-shadow: 1px 1px rgba(87, 87, 87, 0.678);
+  min-height: 160px;
+
+  max-height: 200px;
+}
